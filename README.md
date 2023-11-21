@@ -1,5 +1,9 @@
 # Salt-Segmentation-using-ResUNet
 
+## Deployed Streamlit App
+
+Access the deployed Streamlit app [here](https://salt-segmentation.streamlit.app/).
+
 # ResUNet: Semantic Segmentation with Residual U-Net
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
